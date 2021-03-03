@@ -1,9 +1,0 @@
-[submodule "norubo/odoo-tir"]
-	path = norubo/odoo-tir
-	url = git@github.com:norubo/odoo-tir.git
-	branch = 14.0_cv
-
-[submodule "norubo/odoo-tir-14"]
-	path = norubo/odoo-tir-14
-	url = git@github.com:norubo/odoo-tir.git
-	branch = 14.0
